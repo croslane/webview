@@ -6,7 +6,7 @@ for any webview, here are some links
 
 # tools
 if the page you want isnt available on a search engine or you want to visit a specific URL on that site, use visit-any-url.html
-[https://croslane.github.io/webview/visit-any-url.html](visit any url page)
+[visit any url page](https://croslane.github.io/webview/visit-any-url.html)
 
 
 # how to get here
