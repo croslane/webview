@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>visit any url</title>
+</head>
+<body>
+<form onsubmit="u=url.value;if(!u.startsWith('http://')&&!u.startsWith('https://'))u='https://'+u;location=u;return false;">
+<input name="url" placeholder="Enter URL">
+<button type="submit">Go</button>
+</form>
+</body>
+</html>
